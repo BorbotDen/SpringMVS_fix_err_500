@@ -7,6 +7,4 @@ Err:500
 Servlet.init() for servlet [dispatcher] threw exception
 ```
 ### Решение:
-Собрал  проект Наиля, и использовал папку lib с jar-файлами
- [target/spring-mvc-app1/WEB-INF/lib](https://github.com/BorbotDen/SpringMVS_fix_err_500/tree/CRUD/target/spring-mvc-app1/WEB-INF/lib)
-Заменил папку __lib__ в своем проекте. И все заработало, даже с моим же __pom.xml__
+Использовал pom.xml Наиля. Пересобрал  И все заработало, даже с моим же __pom.xml__
