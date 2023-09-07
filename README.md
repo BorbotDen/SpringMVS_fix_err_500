@@ -8,3 +8,5 @@ Servlet.init() for servlet [dispatcher] threw exception
 ```
 ### Решение:
 Использовал pom.xml Наиля. Пересобрал  И все заработало, даже с моим же __pom.xml__
+
+Нужно использовать clean если вносите изменения в maven.
